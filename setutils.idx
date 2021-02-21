@@ -1,0 +1,4 @@
+See also	setutils.html#see-also	 See also	
+toSet	setutils.html#toSet.t,untyped	setutils: toSet(iter: untyped): untyped	
+fullSet	setutils.html#fullSet,typedesc[T]	setutils: fullSet[T](U: typedesc[T]): set[T]	
+complement	setutils.html#complement,set[T]	setutils: complement[T](s: set[T]): set[T]	

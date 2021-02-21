@@ -1,0 +1,4 @@
+fakeDot	wrapnils.html#fakeDot.t,Wrapnil,	wrapnils: fakeDot(a: Wrapnil; b): untyped	
+`[]`	wrapnils.html#[].t,Wrapnil,I	wrapnils: `[]`[I; ](a: Wrapnil; i: I): untyped	
+`[]`	wrapnils.html#[].t,Wrapnil	wrapnils: `[]`(a: Wrapnil): untyped	
+`?.`	wrapnils.html#?..m,untyped	wrapnils: `?.`(a: untyped): untyped	
